@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <h2>📃 Certifications
-  [Google IT Support Professional Certificate] (https://coursera.org/share/359d50b16159ed1f38d05d23f9b738fe)
+ - [Google IT Support Professional Certificate](https://coursera.org/share/359d50b16159ed1f38d05d23f9b738fe)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -12,7 +12,7 @@
 
 
 
-[linkedin]: (https://www.linkedin.com/in/daniel-perez-055269166/)
+[linkedin]: https://www.linkedin.com/in/daniel-perez-055269166/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

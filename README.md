@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2>📃 Certifications
+<h2>📃 Certifications</h2>
  - [Google IT Support Professional Certificate](https://coursera.org/share/359d50b16159ed1f38d05d23f9b738fe)
 
 
